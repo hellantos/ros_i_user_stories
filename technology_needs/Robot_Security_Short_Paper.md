@@ -19,10 +19,6 @@ This audience targets a number of stakeholders:
 
 
 
-**Content**
-
-[TOC]
-
 ## Boundary conditions
 
 As the document is based on information gathered during an internal workshop, it is necessary to point out that the document is limited by the perspectives of the participants of the workshop. The robot application areas of activity of the participants are noted here.

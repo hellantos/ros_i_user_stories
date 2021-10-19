@@ -22,3 +22,10 @@
 4. As the described user I want to *[perform some task]* so that I can *[achieve some goal]*
 5. ...
 
+
+
+# Suggested technology
+
+1. Technology 1
+2. Technology 2
+3. ...

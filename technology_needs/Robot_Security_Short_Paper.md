@@ -2,10 +2,6 @@
 
 
 
-
-
-
-
 **Objective**:
 
 In this document, we detail the challenges seen by the consortium members with regards to cyber-security in the robotics domain. The information presented in this document was gathered during an internal meet-up of ROS-Industrial Consortium partners on October 6, 2021. The goal of this document is to highlight problems industrial companies need to tackle when working with robots in modern working environments. 
